@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffe992cd.css",
-    "main.js": "/static/js/main.44f876e1.js",
+    "main.css": "/static/css/main.f1dd967c.css",
+    "main.js": "/static/js/main.ea2570b3.js",
     "static/media/sass-icon.svg": "/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/mysql-icon.svg": "/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
     "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
@@ -13,15 +13,14 @@
     "static/media/wordpress.svg": "/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
     "static/media/css-icon.svg": "/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
     "static/media/vscode-icon.svg": "/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
-    "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "index.html": "/index.html",
     "static/media/js-icon.svg": "/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
-    "main.ffe992cd.css.map": "/static/css/main.ffe992cd.css.map",
-    "main.44f876e1.js.map": "/static/js/main.44f876e1.js.map"
+    "main.f1dd967c.css.map": "/static/css/main.f1dd967c.css.map",
+    "main.ea2570b3.js.map": "/static/js/main.ea2570b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffe992cd.css",
-    "static/js/main.44f876e1.js"
+    "static/css/main.f1dd967c.css",
+    "static/js/main.ea2570b3.js"
   ]
 }
